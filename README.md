@@ -1,6 +1,3 @@
-﻿# Machine Learning Projects
-
-
 # Machine Learning Projects
 
 This repository contains a collection of machine learning projects focused on solving real-world problems using data-driven approaches. Each project follows a structured pipeline including data preprocessing, exploratory data analysis, feature engineering, model development, and performance evaluation.
