@@ -7,7 +7,7 @@ This repository contains a collection of machine learning projects focused on so
 ## 📁 Repository Overview
 
 The repository is organized into individual project folders:
-
+ 
 - **House Price Prediction**
   - Regression-based model to estimate property prices
   - Includes data cleaning, feature selection, and model evaluation
