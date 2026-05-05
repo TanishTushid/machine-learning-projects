@@ -6,17 +6,8 @@ This repository contains a collection of machine learning projects focused on so
 
 ## 📁 Repository Overview
 
-The repository is organized into individual project folders:
- 
-- **House Price Prediction**
-  - Regression-based model to estimate property prices
-  - Includes data cleaning, feature selection, and model evaluation
+The repository is organized into individual project folders
 
-- **Gold Price Prediction**
-  - Time-series/regression analysis on historical gold price data
-  - Focus on trend analysis and predictive modeling
-
----
 
 ## 🛠️ Tools & Technologies
 
